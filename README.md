@@ -32,3 +32,7 @@
 - IBM QRadar SIEM Associate Analyst
 - Splunk Monitoring & SIEM Use Cases
 - Foundations of Log Analysis (Red Team Leaders)
+
+## Notes
+
+- [SOC-Notes](https://github.com/LogNinja-00/SOC-Notes): study notes on SOC analyst topics, attacks, and log analysis
